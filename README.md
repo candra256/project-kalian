@@ -80,7 +80,7 @@ setiap hari Sabtu, pukul 14.00WIB (jika tidak ada perubahan :p)
    Bahasa yang digunakan : PHP Native + bootstrap 4
    <br/>
 
-5. [https://satrianet.com/]  
+5. [https://satrianet.com/]  hhh
    **SATRIA**  
    ngikut ahhh..
    Jadi ceritanya dulu waktu baru lulus smp dan masih ada waktu-waktu luang gitu, nonton-nonton video pak @sandhikagalih yang membuat landing page dan saya coba ulik ulik dan belajar, saya coba praktikan dan al hasil ini https://satrianet.com/ maaf masih banyak kurang-kurangnya karna itu pun saya cuma untuk iseng-iseng hehe, itung-itung nambah ilmu di saat waktu luang
